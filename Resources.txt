@@ -1,0 +1,3 @@
+https://www.geeksforgeeks.org/python-seaborn-jointplot-method/
+https://www.w3schools.com/python/matplotlib_plotting.asp
+https://machinelearningmastery.com/how-to-code-the-students-t-test-from-scratch-in-python/
